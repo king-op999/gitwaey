@@ -1,0 +1,16 @@
+{
+  "name": "bronx-payment-api",
+  "version": "3.0.0",
+  "description": "BRONX Universal Dynamic Payment API - All Gateways",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "node api/index.js"
+  },
+  "keywords": ["payment", "upi", "paypal", "crypto", "api"],
+  "author": "BRONX ULTRA",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
